@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user id="1">
+    <name>Dance style</name>
+    <pname>Classical</pname>
+    <points>10</points>
+  </user>
+  <user id="2">
+    <name>Dance</name>
+    <pname>folk</pname>
+    <points>9</points>
+  </user>
+  <user id="3">
+    <name>Dance</name>
+    <pname>hiphop</pname>
+    <points>8</points>
+  </user>
+  <user id="4">
+    <name>Dance</name>
+    <pname>western</pname>
+    <points>5</points>
+  </user>
+  <user id="5">
+    <name>Dance</name>
+    <pname>tutting</pname>
+    <points>2</points>
+  </user>
+  <user id="6">
+    <name>Dance</name>
+    <pname>tap</pname>
+    <points>1</points>
+  </user>
+  </users>
